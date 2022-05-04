@@ -1,6 +1,8 @@
 # atr-inline-rtl-ltr-releases
 Atr Inline Rtl Ltr releases
 
+-------- You can download the release on the right side of this page ---------
+
 First release
 
 Wrap words (or sentences) in paragraph block with span element and change their direction from rtl to ltr and vice versa.
