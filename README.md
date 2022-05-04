@@ -1,7 +1,7 @@
 # atr-inline-rtl-ltr-releases
 Atr Inline Rtl Ltr releases
 
--------- You can download the release on the right side of this page ---------
+-------- You can download the release on the right side of this repository home page ---------
 
 First release
 
